@@ -1,7 +1,9 @@
+import os
+
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "BOT_TOKEN"
+TOKEN = os.getenv("BOT_TOKEN")
 
 MEMBERSHIP_LINK = "https://forms.gle/xob84oxbT3ntwgcm8"
 SUPPORT_LINK = "https://revolut.me/alijvkg1"
