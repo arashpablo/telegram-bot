@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 TOKEN = os.getenv("BOT_TOKEN")
 
 MEMBERSHIP_LINK = "https://forms.gle/xob84oxbT3ntwgcm8"
-SUPPORT_LINK = "https://revolut.me/alijvkg1"
+SUPPORT_LINK = "https://revolut.me/alijykg1"
 FEEDBACK_LINK = "https://forms.gle/ToGunsuPmco9NyjZ9"
 
 
