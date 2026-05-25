@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "8652690939:AAH8nPArGbmO4CCCY-n3ulrwbo9ZD_Wb5IQ"
+TOKEN = "BOT_TOKEN"
 
 MEMBERSHIP_LINK = "https://forms.gle/xob84oxbT3ntwgcm8"
 SUPPORT_LINK = "https://revolut.me/alijvkg1"
